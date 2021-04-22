@@ -48,6 +48,104 @@
           "totalHours":"8"
         }
       ]
+    },
+    {
+      "name":"Roshni Chopra",
+      "status":"active",
+      "totalApprovedHours":"4",
+      "totalUnapprovedHours":"156",
+      "profession":"Carpenter",
+      "projects":[
+        {
+          "id":"1",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        },
+         {
+          "id":"2",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        },
+         {
+          "id":"3",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        },
+         {
+          "id":"4",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        }
+      ]
+    },
+    {
+      "name":"Moeen Aktar",
+      "status":"active",
+      "totalApprovedHours":"4",
+      "totalUnapprovedHours":"156",
+      "profession":"Carpenter",
+      "projects":[
+        {
+          "id":"1",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        },
+         {
+          "id":"2",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        },
+         {
+          "id":"3",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        },
+         {
+          "id":"4",
+          "projectsName":"Nacka",
+          "category":"Carpentry",
+          "assignDate":"03.02.2020",
+          "description":"This project is assign to jack mae",
+          "startTime":"6:30",
+          "endTime":"15:30",
+          "totalHours":"8"
+        }
+      ]
     }
   ]
 }
