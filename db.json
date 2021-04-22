@@ -8,6 +8,7 @@
       "profession":"Carpenter",
       "projects":[
         {
+          "id":"1",
           "projectsName":"Nacka",
           "category":"Carpentry",
           "assignDate":"03.02.2020",
