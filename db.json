@@ -1,20 +1,20 @@
 {
-  PEOPLE:[
+  people:[
     {
-      NAME:"Jack Mae",
-      STATUS:"active",
-      TOTAL_APPROVED_HOURS:"4",
-      TOTAL_UNAPPROVED_HOURS:"156",
-      PROFESSION:"Carpenter",
-      PROJECTS:[
+      name:"Jack Mae",
+      status:"active",
+      totalApprovedHours:"4",
+      totalUnapprovedHours:"156",
+      profession:"Carpenter",
+      projects:[
         {
-          PROJECT_NAME:"Nacka",
-          CATEGORY:"Carpentry",
-          ASSIGN_DATE:"03.02.2020",
-          DESCRIPTION:"This project is assign to jack mae",
-          START_TIME:"6:30",
-          END_TITME:"15:30",
-          TOTAL_HOURS:"8"
+          projectsName:"Nacka",
+          category:"Carpentry",
+          assignDate:"03.02.2020",
+          description:"This project is assign to jack mae",
+          startTime:"6:30",
+          endTime:"15:30",
+          totalHours:"8"
         }
       ]
     }
